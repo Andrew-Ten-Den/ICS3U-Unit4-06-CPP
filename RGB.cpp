@@ -16,8 +16,8 @@ int main() {
     for (counter1 = 0; counter1 < 255; counter1++) {
         for (counter2 = 0; counter2 < 255; counter2++) {
             for (counter3 = 0; counter3 < 255; counter3++) {
-            std::cout << "RGB Values: " << counter1 << " " << counter2 << " "
-            << counter3 << std::endl;
+                std::cout << "RGB Values: " << counter1 << " " << counter2 << " "
+                << counter3 << std::endl;
             }
         }
     }
